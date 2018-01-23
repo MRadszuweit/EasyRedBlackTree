@@ -31,4 +31,7 @@ The data content can be of arbitrary type. The user has the give
   
   
 
+An example can be found in the tes program testRBT.c (type make to build), in which some randomly generated 
+twodimensional vectors are ordered according to their euklidean norm. 
+
 
